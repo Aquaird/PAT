@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "pro[2]">
+            </PersistentString>
+            <PersistentString
+               value = "n_Node">
+            </PersistentString>
+            <PersistentString
+               value = "parent">
+            </PersistentString>
+            <PersistentString
+               value = "level[1]">
+            </PersistentString>
+            <PersistentString
+               value = "pro[3]">
+            </PersistentString>
+            <PersistentString
+               value = "level[0]">
+            </PersistentString>
+            <PersistentString
+               value = "n_child[1]">
+            </PersistentString>
+            <PersistentString
+               value = "n_child[3]">
+            </PersistentString>
+            <PersistentString
+               value = "level[2]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
