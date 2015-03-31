@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D4059FB3-E405-474D-8422-B5395335F2E3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PAT(1005)</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>207B8EA2C85843B4635771E1CBF4CFE0316421DF</key>
+		<string>github.com:Aquaird/PAT.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PAT(1005)/PAT(1005).xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>207B8EA2C85843B4635771E1CBF4CFE0316421DF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:Aquaird/PAT.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>207B8EA2C85843B4635771E1CBF4CFE0316421DF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>207B8EA2C85843B4635771E1CBF4CFE0316421DF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PAT</string>
+		</dict>
+	</array>
+</dict>
+</plist>
